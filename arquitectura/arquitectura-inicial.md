@@ -4,15 +4,9 @@
 
 La arquitectura inicial de la plataforma se organiza en tres capas principales: presentación, lógica de negocio y datos.
 
-| Capa | Pregunta que responde | Elementos |
-|---|---|---|
-| Presentación | ¿Cómo interactúa el usuario? | Aplicación Web y API REST |
-| Lógica de negocio | ¿Qué hace el sistema? | Usuarios, Prestadores, Servicios, Solicitudes, Propuestas y Contrataciones |
-| Datos | ¿Dónde se almacena la información? | Base de datos |
-
 ## Diagrama de arquitectura
 
-mermaid
+```mermaid
 flowchart TD
 
 %% =========================
@@ -110,7 +104,7 @@ style BD fill:#222,stroke:#fff,color:#fff
 style Pago fill:#222,stroke:#fff,color:#fff
 style Notificaciones fill:#222,stroke:#fff,color:#fff
 style Ubicacion fill:#222,stroke:#fff,color:#fff
-
+```
 
 ## Descripción
 
