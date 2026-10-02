@@ -1,5 +1,7 @@
+
+
 # Marketplace
 
 ## Arquitectura del sistema
 
-![Arquitectura](arquitectura/primero.jpg)
+![arquitectura](./segundo.jpeg)
