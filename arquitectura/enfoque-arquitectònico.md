@@ -2,4 +2,4 @@
 
 ## Arquitectura del sistema
 
-![arquitectura](./primero.jpg)
+![arquitectura](./segundo.jpg)
